@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Q1",
+    "variable": "social_cooperation",
+    "scale_type": "1-5",
+    "question": "How strongly does the document describe cooperative social behavior among animals?",
+    "coding": "1 = no cooperation described, 5 = extensive cooperation described"
+  },
+  {
+    "id": "Q2",
+    "variable": "protective_behavior",
+    "scale_type": "1-5",
+    "question": "To what extent does the document emphasize protection or caregiving toward younger animals?",
+    "coding": "1 = no protective behavior described, 5 = heavily emphasized"
+  }
+]
