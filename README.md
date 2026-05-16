@@ -16,6 +16,8 @@ The original research workflow involved:
 
 In order to protect currently unpublished research and private datasets, this repository uses a placeholder document and simplified demo prompts/questions while preserving the architecture of the pipeline.
 
+![Sample input](images/input.png)
+![Sample output](images/output.png)
 ---
 
 # Features
